@@ -66,18 +66,3 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 
 ![Yes](https://i.imgur.com/hv2ExJW.png)
 
-<style>
-body {
-    background-color: lightgrey;
-}
-
-h1 {
-    color: white;
-    text-align: center;
-}
-
-p {
-    font-family: Comic Sans;
-    font-size: 20px;
-}
-</style>
