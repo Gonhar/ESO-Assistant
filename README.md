@@ -2,7 +2,7 @@
 An autistic b0t full of worthless info for ESO, you could find a better bot guaranteed! "He likes shineeys"
 
 
-![Yes](https://i.imgur.com/DFbx7RR.png)
+![Yes](https://i.imgur.com/hv2ExJW.png)
 
 ### !help
 * !Pledges - Tells you the Pledges of the day
