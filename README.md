@@ -2,7 +2,7 @@
 An autistic b0t full of worthless info for ESO, you could find a better bot guaranteed! "He likes shineeys"
 
 
-## Commands
+![Yes](https://i.imgur.com/hv2ExJW.png)
 
 ### !help
 * !Pledges - Tells you the Pledges of the day
@@ -63,5 +63,4 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 * !varl - Varlariel
 * !mage - The Mage
 
-## What about images?
 ![Yes](https://i.imgur.com/hv2ExJW.png)
