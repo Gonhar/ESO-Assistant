@@ -53,6 +53,7 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 * !vAA !vAA2 and !vAAhm - Atro, Varlariel and Mage HM
 
 ##### !helpadmin
+* !prune - +A Number of Messages to Delete 
 * PM - Your message and it PMs everyone
 * !announce - send a announcment to announcments channel
 
