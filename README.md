@@ -66,29 +66,18 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 
 ![Yes](https://i.imgur.com/hv2ExJW.png)
 
-<!DOCTYPE html>
-<html>
-<head>
 <style>
 body {
     background-color: lightgrey;
 }
 
 h1 {
-    color: red;
+    color: white;
     text-align: center;
 }
 
 p {
-    font-family: verdana;
+    font-family: Comic Sans;
     font-size: 20px;
 }
 </style>
-</head>
-<body>
-
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
