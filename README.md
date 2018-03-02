@@ -22,8 +22,8 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 * !roll - Rolls a Number 1 10 - 1 1000
 * !GenNumber - Returns a random number
 * !dadjoke - Tells you a random Dad joke
-* !woof or dog - Random Dog Pic
-* !meow or cat - Random Cat Pic
+* !woof - Random Dog Pic
+* !meow - Random Cat Pic
 * !gif - Random Gif
 * !urban - urban dictionary word pull up
 * !dadjoke - Random Dad Joke!
