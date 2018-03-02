@@ -16,6 +16,7 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 * !weekly - Tells you the Trial of the week
 * !score - !score pluse your @ingamename without the @
 * (Shows you all of your leaderboard scores)
+* !addons - Recommended Addons
 
 ##### !Fun
 * !FlipCoin - Returns "Heads" or "Tails"
