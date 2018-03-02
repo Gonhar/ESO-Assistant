@@ -32,6 +32,9 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 ##### Usefull Bot Commands
 * !Help - Lists available commands
 * !invite - Creates a Discord Invite link
+* !poll - 2 Answer Poll (Yes or No) (Thumbs up and Down)
+* !poll4 - A 4 Question poll (A. B. C. D. before the Answers)
+
 
 
 ##### Music Bot Commands
