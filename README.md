@@ -61,11 +61,5 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 * !announce - send a announcment to announcments channel
 
 
-#### Ordered
-* !storm - Lightning Storm Atronach
-* !stone - Foundation Stone Atronach
-* !varl - Varlariel
-* !mage - The Mage
-
 ![Yes](https://i.imgur.com/hv2ExJW.png)
 
