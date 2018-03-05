@@ -9,7 +9,8 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 * !Golden - Tells you what Golden is Selling this week
 * !luxury - Tells you what the Luxury Vender is Selling this week
 * !weekly - Tells you the Trial of the week
-* !score - !score pluse your @ingamename without the @
+* !lb Name - will show your scores for your whole account
+* !lbc character name - will show your scores for your character
 * (Shows you all of your leaderboard scores)!Pledges - Tells you the Pledges of the day
 
 
@@ -33,8 +34,6 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 * !dadjoke - Tells you a random Dad joke
 * !woof - Random Dog Pic
 * !meow - Random Cat Pic
-* !gif - Random Gif
-* !urban - urban dictionary word pull up
 * !dadjoke - Random Dad Joke!
 * !8ball - Ask it a question
 
