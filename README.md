@@ -1,8 +1,8 @@
-# ESOderpBoT *(Alpha Phase)*
-An autistic b0t full of worthless info for ESO, you could find a better bot guaranteed! "He likes shineeys"
+# ESO Assistant *(Alpha Phase)*
+A Bot with info about The Elder Scrolls Online.
 
 
-![Yes](https://i.imgur.com/hv2ExJW.png)
+![Yes](https://i.imgur.com/zQadp8w.png)
 
 ### !help
 * !Pledges - Tells you the Pledges of the day
@@ -58,5 +58,5 @@ An autistic b0t full of worthless info for ESO, you could find a better bot guar
 * !announce - send a announcment to announcments channel
 * !say - Talk as the bot
 
-![Yes](https://i.imgur.com/hv2ExJW.png)
+![Yes](https://i.imgur.com/zQadp8w.png)
 
