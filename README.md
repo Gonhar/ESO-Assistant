@@ -4,7 +4,15 @@ A Bot with info about The Elder Scrolls Online.
 
 ![Yes](https://i.imgur.com/zQadp8w.png)
 
-### !help
+### !help Menues
+* !help - Help Menu
+* !admin - Admin Menu
+* !raid - Trial Menu
+* !ranks - Auto Ranks
+* !addons - Add On Menu
+* !fun - Fun Command Menu - with Music
+
+### !ESO Commands
 * !Pledges - Tells you the Pledges of the day
 * !Golden - Tells you what Golden is Selling this week
 * !luxury - Tells you what the Luxury Vender is Selling this week
