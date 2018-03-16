@@ -20,7 +20,9 @@ A Bot with info about The Elder Scrolls Online.
 * !lb Name - will show your scores for your whole account
 * !lbc character name - will show your scores for your character
 * (Shows you all of your leaderboard scores)!Pledges - Tells you the Pledges of the day
-
+* !server - Pulls the server status with links to more info.
+* !ttc - !ttc + search = Will Show the top 5 cheapest item Searches (Alpha)
+* !set - !set + search = Will show what the set does and where to find it (Alpha)
 
 ##### Pics for Trial Positions & Info
 * !pen - Shows Pen Sets
