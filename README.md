@@ -1,6 +1,7 @@
 # ESO Assistant *(Alpha Phase)*
 A Bot with info about The Elder Scrolls Online.
 
+### The Elder Scrolls Online Assistant link!
 https://discordapp.com/api/oauth2/authorize?client_id=411786681935724546&permissions=1610086647&scope=bot
 
 ![Yes](https://i.imgur.com/zQadp8w.png)
