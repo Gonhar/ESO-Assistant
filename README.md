@@ -1,7 +1,6 @@
 # ESO Assistant *(Alpha Phase)*
 A Bot with info about The Elder Scrolls Online.
 
-
 ![Yes](https://i.imgur.com/zQadp8w.png)
 
 ### !help Menues
